@@ -1,0 +1,8 @@
+/.idea
+/.venv
+/build
+/dist
+audio_control_service.log
+headphone_service.log
+headph.spec
+livesearch.exe
